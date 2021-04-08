@@ -1,5 +1,6 @@
-Currently a PhD student at the Sociology Department at Tilburg University and Assistant of the Methodology Group of the European Values Study (EVS). My research interests span between sociology, communication and survey methodology. My main areas of interest are:
-- the digital divide (e.g. how are social inequalities reproduced in the online domain?)
+## About me
+I am Angelica, I currently hold a position as a PhD student at the Sociology Department at Tilburg University (the Netherlands) and I am also an assistant of the Methodology Group of the European Values Study [EVS](https://europeanvaluesstudy.eu/). My research interests span between sociology, communication and survey methodology. My main areas of interest are:
+- the digital divide
 - privacy, surveillance & trust in digital societies
 - (web) survey design
 
