@@ -9,4 +9,4 @@ I am Angelica, I currently hold a position as a PhD student at the Sociology Dep
 In my free time I love knitting, playing the harp and pole dancing.
 
 ## Contacts
-You can get in touch with me via [email](a.m.maineri@tilburguniversity.edu), [twitter](https://twitter.com/AngelicaMaineri) or [Linkedin](https://www.linkedin.com/in/angelica-maineri-72b44a131/)
+You can get in touch with me via email (a.m.maineri _at_ tilburguniversity.edu), [twitter](https://twitter.com/AngelicaMaineri) or [Linkedin](https://www.linkedin.com/in/angelica-maineri-72b44a131/)
