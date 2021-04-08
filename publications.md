@@ -1,6 +1,8 @@
+---
 layout: page
 title: "List of publications"
 permalink: /publications/
+---
 
 # Journal articles
 - Luijkx, R., Jonsdottir, G., Gummer, T., Ernst Staehli, M., Frederiksen, M., Ketola, K., Reeskens, T., Brislinger, E., Christmann, P., Gunnarsson, S., Bragi Hjaltason, A., Joye, D., Lomazzi, V., **Maineri, A.**, Milbert, P., Ochsner, M., Pollien, A., Sapin, M., Solanes, I., ... Wolf, C. (2021). The European Values Study 2017: On the way to the future using mixed-modes. European Sociological Review. [here](https://doi.org/10.1093/esr/jcaa049)
