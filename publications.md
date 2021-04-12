@@ -16,4 +16,8 @@
 ## Blog posts
 - **Maineri, A.**, Reeskens. T, (2019, February 4th) In Zuck We Trust? [here](https://www.socialevraagstukken.nl/in-zuck-we-trust/)
 
+## Awards and grants
+- 2019/2020: GESIS research grant GG-2019-022; it funded a 4-weeks research stay at the GESIS institute in Mannheim (Germany) in February-March 2020
+- 2018/2019: ECSR internship grant; it funded a 2-weeks research stay at the GESIS institute in Cologne (Germany) in November 2018
+
 ## Others
