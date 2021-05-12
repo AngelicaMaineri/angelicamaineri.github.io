@@ -2,7 +2,7 @@
 - **Maineri AM**, Van Mol C. An Experimental Study on the Impact of Contact Design on Web Survey Participation. Social Science Computer Review. April 2021. [full-text here]( doi:10.1177/08944393211003482)
 - **Maineri, A.**, Lomazzi, V., & Luijkx, R. (2021). Studying the Context Effect of Family Norms on Gender Role Attitudes: an Experimental Design. Survey Research Methods, 15(1), 43-64. [full-text here](https://doi.org/10.18148/srm/2021.v15i1.7656)
 - Luijkx, R., Jonsdottir, G., Gummer, T., Ernst Staehli, M., Frederiksen, M., Ketola, K., Reeskens, T., Brislinger, E., Christmann, P., Gunnarsson, S., Bragi Hjaltason, A., Joye, D., Lomazzi, V., **Maineri, A.**, Milbert, P., Ochsner, M., Pollien, A., Sapin, M., Solanes, I., ... Wolf, C. (2021). The European Values Study 2017: On the way to the future using mixed-modes. European Sociological Review. [full-text here](https://doi.org/10.1093/esr/jcaa049)
-- **Maineri, A.**, Bison, I., & Luijkx, R. (2021). Slider bars in multi-device web surveys. Social Science Computer Review. [here](https://doi.org/10.1177/0894439319879132)
+- **Maineri, A.**, Bison, I., & Luijkx, R. (2021). Slider bars in multi-device web surveys. Social Science Computer Review. [full-text here](https://doi.org/10.1177/0894439319879132)
 - Luijkx, R., & **Maineri, A.** (2019). Het Europese Waardenonderzoek 1981-2017: Geschiedenis, de internationale context en het Nederlandse veldonderzoek. Mens en Maatschappij, 94(4), 381-397. [full-text here](https://doi.org/10.5117/MEM2019.4.002.LUIJ)
 
 ## Book chapters
