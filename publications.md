@@ -7,7 +7,7 @@
 
 ## Book chapters
 - Brunori, C., **Maineri, A.**, Borghesan, G., & Luijkx, R. (2020). I cambiamenti strutturali: l'Italia dagli anni Ottanta a oggi. In F. Biolcati Rinaldi, G. Rovati, & P. Segatti (Eds.), Come cambiano gli italiani: il mutamento di valori e atteggiamenti dagli anni Ottanta a oggi (pp. 35-60). Il Mulino.
-- Pasqualini, C., & Maineri, A. M. (2018). Profili di streeters, interpellati sui social network. In C. Pasqualini (Ed.), Vicini e connessi: Rapporto sulle Social Street a Milano (Vol. 61, pp. 268-283). Fondazione Giangiacomo Feltrinelli. [here](http://fondazionefeltrinelli.it/app/uploads/2018/02/Vicini-e-connessi.pdf)
+- Pasqualini, C., & Maineri, A. M. (2018). Profili di streeters, interpellati sui social network. In C. Pasqualini (Ed.), Vicini e connessi: Rapporto sulle Social Street a Milano (Vol. 61, pp. 268-283). Fondazione Giangiacomo Feltrinelli. [see here](http://fondazionefeltrinelli.it/app/uploads/2018/02/Vicini-e-connessi.pdf)
 
 ## Reports
 - **Maineri, A. M**., Scherpenzeel, A., Bristle, J., Pflüger, S-M., Butt, S., Zins, S., Emery, T., & Luijkx, R. (2017). Evaluating the quality of sampling frames used in European cross-national surveys. SERISS. [here](https://seriss.eu/wp-content/uploads/2017/10/SERISS-Deliverable-2.2-_Report-Evaluating-the-quality-of-sampling-frames.pdf)
