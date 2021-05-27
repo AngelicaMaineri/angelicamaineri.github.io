@@ -7,3 +7,6 @@
 - title: Linkedin
   url: https://www.linkedin.com/in/angelica-maineri-72b44a131/
   icon: fab fa-linkedin
+- title: GScholar
+  url: https://scholar.google.nl/citations?user=kpOIk8gAAAAJ&hl=en
+  icon: fab fa-gscholar
