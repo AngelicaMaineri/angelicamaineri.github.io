@@ -4,9 +4,10 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 title: Angelica Maineri
 description: Welcome to the personal website of Angelica Maineri. Please notice the website is still under construction
 
-logo: Angelica.jpg
-skin: 
+#logo: Angelica.jpg
+#skin: 
 lang: en
+subscribe: 0
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
