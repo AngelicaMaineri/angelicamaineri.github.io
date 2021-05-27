@@ -4,15 +4,15 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 title: Angelica Maineri
 description: Welcome to the personal website of Angelica Maineri. Please notice the website is still under construction
 
-#logo: Angelica.jpg
+logo: Angelica-cardi.png
 skin: daylight 
 lang: en
-subscribe: not
+subscribe: false
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Angelica M. Maineri
-  avatar: Angelica-cardi.png
+  #avatar: Angelica-cardi.png
   bio: "The personal webpage of Angelica M. Maineri"
   email: a.m.maineri [at] tilburguniversity
   # Do not include the @ symbol in your Twitter username
