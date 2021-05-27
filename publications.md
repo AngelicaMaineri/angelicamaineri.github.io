@@ -1,3 +1,8 @@
+---
+title: Publications
+permalink: /publications/
+---
+
 ## Journal articles
 - **Maineri AM**, Van Mol C. An Experimental Study on the Impact of Contact Design on Web Survey Participation. Social Science Computer Review. April 2021. [full-text here]( doi:10.1177/08944393211003482)
 - **Maineri, A.**, Lomazzi, V., & Luijkx, R. (2021). Studying the Context Effect of Family Norms on Gender Role Attitudes: an Experimental Design. Survey Research Methods, 15(1), 43-64. [full-text here](https://doi.org/10.18148/srm/2021.v15i1.7656)
