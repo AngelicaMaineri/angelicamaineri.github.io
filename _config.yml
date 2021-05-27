@@ -1,13 +1,18 @@
+# add remote theme
 plugins:
   - jekyll-remote-theme
 remote_theme: ngzhio/jekyll-theme-hamilton
+
+# main
 title: Angelica Maineri
+avatar: /Angelica-cardi.png
 description: Welcome to the personal website of Angelica Maineri. Please notice the website is still under construction
 
-avatar: /Angelica-cardi.png
+#customize
 skin: daylight 
 lang: en
 subscribe: false
+
 
 author: Angelica M. Maineri
 #email: a.m.maineri [at] tilburguniversity
