@@ -9,4 +9,7 @@
   icon: fab fa-linkedin
 - title: GScholar
   url: https://scholar.google.nl/citations?user=kpOIk8gAAAAJ&hl=en
-  icon: fab ai ai-google-scholar-square
+  icon: ai ai-google-scholar-square
+- title: ORCID
+  url: https://orcid.org/0000-0002-6978-5278
+  icon: ai ai-orcid
