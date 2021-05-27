@@ -9,21 +9,26 @@ skin: daylight
 lang: en
 subscribe: false
 
+author: Angelica M. Maineri
+email: a.m.maineri [at] tilburguniversity
+location: Tilburg (NL) 
+
+
 # Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Angelica M. Maineri
-  #avatar: Angelica-cardi.png
-  bio: "The personal webpage of Angelica M. Maineri"
-  email: a.m.maineri [at] tilburguniversity
-  # Do not include the @ symbol in your Twitter username
-  #twitter: AngelicaMaineri
-  #linkedin: Angelica Maineri
-  #github: AngelicaMaineri
-  #orcid: 0000-0002-6978-5278
-  #researchgate: #username
- # mendeley: #username
-  #google:
- #   plus: #username
- #   analytics:
- #   verify:
- #   scholar: #id
+#owner:
+#  name: Angelica M. Maineri
+#  #avatar: Angelica-cardi.png
+#  bio: "The personal webpage of Angelica M. Maineri"
+#  email: a.m.maineri [at] tilburguniversity
+#  # Do not include the @ symbol in your Twitter username
+#  #twitter: AngelicaMaineri
+#  #linkedin: Angelica Maineri
+#  #github: AngelicaMaineri
+#  #orcid: 0000-0002-6978-5278
+#  #researchgate: #username
+# # mendeley: #username
+#  #google:
+# #   plus: #username
+# #   analytics:
+# #   verify:
+# #   scholar: #id
