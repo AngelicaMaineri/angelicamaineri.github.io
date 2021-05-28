@@ -28,3 +28,5 @@ permalink: /publications/
 - 2018/2019: ECSR internship grant; it funded a 2-weeks research stay at the GESIS institute in Cologne (Germany) in November 2018
 
 ## Others
+- Sperle, I., Nielsen, S., Bremer, V., Gassowski, M., Brummer-Korvenkontio, H., Bruni, R., . . . Zimmermann, R. (2021). Developing and Piloting a Standardized European Protocol for Hepatitis C Prevalence Surveys in the General Population (2016–2019). Frontiers in Public Health, 9, 621. [full-text here](https://www.frontiersin.org/article/10.3389/fpubh.2021.568524)
+
