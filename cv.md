@@ -4,5 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-2016-current: PhD student
+# Work experience
+- 2016-current: PhD student
 
