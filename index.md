@@ -7,7 +7,7 @@ For my PhD thesis, I apply sociological theories, e.g. Beck's reflexive moderniz
 
 In my free time I love knitting, playing the harp and pole dancing. I also love food - eating it more than cooking it.
 
-On this website you can find a compete list of my [publications](/publications/) and my [CV](/cv/).
+On this website you can find a compete list of my [publications](/publications/) and my [CV](/cv/). For the list of talks and conferences, please see my [Academic Page](https://research.tilburguniversity.edu/en/persons/angelica-maineri).
 
 If you are interested in exchanging ideas, feel free to reach out via email (a.m.maineri _at_ tilburguniversity.edu), [twitter](https://twitter.com/AngelicaMaineri) or [Linkedin](https://www.linkedin.com/in/angelica-maineri-72b44a131/).
 
