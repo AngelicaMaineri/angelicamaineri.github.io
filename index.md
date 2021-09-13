@@ -1,5 +1,5 @@
 ## About me
-I am Angelica, I currently hold a position as a PhD student at the Sociology Department at Tilburg University (the Netherlands) and I am also an assistant of the Methodology Group of the European Values Study ([EVS](https://europeanvaluesstudy.eu/)), and member of the EVS Operational and Planning Group. 
+I am Angelica, I currently hold a position as a PhD student at the Sociology Department at Tilburg University (the Netherlands) and I am also part-time data manager at the Open Data Infrastructure for Social Science and Economic Innovation ([ODISSEI](https://odissei-data.nl/en/)) consortium. Previously, I was assistant of the Methodology Group of the European Values Study ([EVS](https://europeanvaluesstudy.eu/)), and member of the EVS Operational and Planning Group. 
 
 In the last 5 years I gained significant experience in conducting academic research at the intersection between sociology and survey methodology, by combining substantive research for the PhD with operational work for the European Values Study. 
 
