@@ -5,8 +5,9 @@ permalink: /cv/
 ---
 
 # Work experience
+- Sep. 2021-current: Data manager at ODISSEI.
 - 2017-current: PhD student at Tilburg University, dept. of Sociology. Thesis on Privacy, Trust and Risks in the Datafied Society (supervisors: Dr. Luijkx and Prof. Dr. Achterberg)
-- 2016-Current: Member of the Operational and Planning Group of the European Values Study (EVS). I was in charge of communication with country teams pre-fieldwork, and of data processing and documentation. On behalf of EVS, I have been taking part in European projects (former: SERISS, SSHOC; current: ESS-SUSTAIN-II), and supervised 12 interns.
+- Jan. 2016-Aug. 2021: Member of the Operational and Planning Group of the European Values Study (EVS). I was in charge of communication with country teams pre-fieldwork, and of data processing and documentation. On behalf of EVS, I have been taking part in European projects (former: SERISS, SSHOC; current: ESS-SUSTAIN-II), and supervised 12 interns.
 - 2016-Current: TA for the ReMa course Survey research and psychometrics (coordinator: Dr. Guy Moors). I teach about comparative surveys, data archives and use of secondary data.
 - 2011-2014: Music teacher at Ricordi Music School, Milan
 
