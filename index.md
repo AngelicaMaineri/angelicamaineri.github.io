@@ -1,5 +1,5 @@
 ## About me
-I am Angelica, I currently hold a position as a PhD student at the Sociology Department at Tilburg University (the Netherlands) and I am also part-time data manager at the Open Data Infrastructure for Social Science and Economic Innovation ([ODISSEI](https://odissei-data.nl/en/)) consortium. Previously, I was assistant of the Methodology Group of the European Values Study ([EVS](https://europeanvaluesstudy.eu/)), and member of the EVS Operational and Planning Group. 
+I am Angelica, data manager at the Open Data Infrastructure for Social Science and Economic Innovation ([ODISSEI](https://odissei-data.nl/en/)) consortium (while I am wrapping up my PhD dissertation at the Sociology Department at Tilburg University). Previously, I was assistant of the Methodology Group of the European Values Study ([EVS](https://europeanvaluesstudy.eu/)), and member of the EVS Operational and Planning Group. 
 
 In the last 5 years I gained significant experience in conducting academic research at the intersection between sociology and survey methodology, by combining substantive research for the PhD with operational work for the European Values Study. 
 
@@ -9,5 +9,5 @@ In my free time I love knitting, playing the harp and pole dancing. I also love 
 
 On this website you can find a compete list of my [publications](/publications/) and my [CV](/cv/). For the list of talks and conferences, please see my [Academic Page](https://research.tilburguniversity.edu/en/persons/angelica-maineri).
 
-If you are interested in exchanging ideas, feel free to reach out via email (a.m.maineri _at_ tilburguniversity.edu), [twitter](https://twitter.com/AngelicaMaineri) or [Linkedin](https://www.linkedin.com/in/angelica-maineri-72b44a131/).
+If you are interested in exchanging ideas, feel free to reach out via email (angelica _at_ odissei-data.nl), [twitter](https://twitter.com/AngelicaMaineri) or [Linkedin](https://www.linkedin.com/in/angelica-maineri-72b44a131/).
 
