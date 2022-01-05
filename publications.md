@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Journal articles
-- **Maineri, A.**, Achterberg, P., & Luijkx, R. (2021). The closing educational gap in e-privacy management in European perspective. Sociological Research Online.[full-text here](https://doi.org/10.1177/13607804211023524)
+- **Maineri, A.**, Achterberg, P., & Luijkx, R. (2021). The closing educational gap in e-privacy management in European perspective. Sociological Research Online. [full-text here](https://doi.org/10.1177/13607804211023524)
 - **Maineri AM**, Van Mol C. An Experimental Study on the Impact of Contact Design on Web Survey Participation. Social Science Computer Review. April 2021. [full-text here]( doi:10.1177/08944393211003482)
 - **Maineri, A.**, Lomazzi, V., & Luijkx, R. (2021). Studying the Context Effect of Family Norms on Gender Role Attitudes: an Experimental Design. Survey Research Methods, 15(1), 43-64. [full-text here](https://doi.org/10.18148/srm/2021.v15i1.7656)
 - Luijkx, R., Jonsdottir, G., Gummer, T., Ernst Staehli, M., Frederiksen, M., Ketola, K., Reeskens, T., Brislinger, E., Christmann, P., Gunnarsson, S., Bragi Hjaltason, A., Joye, D., Lomazzi, V., **Maineri, A.**, Milbert, P., Ochsner, M., Pollien, A., Sapin, M., Solanes, I., ... Wolf, C. (2021). The European Values Study 2017: On the way to the future using mixed-modes. European Sociological Review. [full-text here](https://doi.org/10.1093/esr/jcaa049)
