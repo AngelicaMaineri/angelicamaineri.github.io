@@ -9,5 +9,5 @@ In my free time I love knitting, playing the harp and pole dancing. I also love 
 
 On this website you can find a compete list of my [publications](/publications/) and my [CV](/cv/).
 
-If you are interested in exchanging ideas, feel free to reach out via email (angelica _at_ odissei-data.nl), [twitter](https://twitter.com/AngelicaMaineri), [Linkedin](https://www.linkedin.com/in/angelica-maineri-72b44a131/), or <a rel="me" href="https://akademienl.social/@AngelicaMaineri">Mastodon</a>.
+If you are interested in exchanging ideas, feel free to reach out via email (angelica _at_ odissei-data.nl), [twitter](https://twitter.com/AngelicaMaineri), [Linkedin](https://www.linkedin.com/in/angelica-maineri-72b44a131/), or [mastodon](https://akademienl.social/@AngelicaMaineri).
 
