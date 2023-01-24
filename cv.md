@@ -13,6 +13,7 @@ permalink: /cv/
 
 # Education
 
+- 2022: PhD in Sociology at Tilburg University
 - 2016: MSc Double Degree in Sociology and Social Research at Tilburg University and University of Trento cum laude. Final dissertation: “Web and Mobile surveys: innovations, issues and mode effects” (supervisors: Dr. Luijkx and Prof. Dr. Bison)
 - 2014: BSc in Science of Social Phenomena and Organizational Processes cum laude (Università Cattolica del Sacro Cuore, Milan). Final dissertation: “Sharing. New strategies of housing in Milan” (supervisor: Dr. Montagnini)
 - 2012: MA in Harp at the Conservatory G. Verdi of Milan
