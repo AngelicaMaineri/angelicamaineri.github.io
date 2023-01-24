@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ## Journal articles
+- Marolla, F.,  Tagliabue, J., **Maineri, A.M.**,  Cassani, G. (forthcoming). Voting, fast and slow: Ballot order and likability effects in the Five Star Movement’s 2012 online primary election
 - **Maineri, A. M.**, Achterberg, P., & Luijkx, R. (2022). Switch on the Big Brother! Investigating the educational gradients in acceptance of online and public areas surveillance among European citizens. European Societies. [full-text here](https://doi.org/10.1080/14616696.2022.2043412); [supplementary materials & scripts here](https://doi.org/10.17605/OSF.IO/M82KW)
 - **Maineri, A.**, Achterberg, P., & Luijkx, R. (2021). The closing educational gap in e-privacy management in European perspective. Sociological Research Online. [full-text here](https://doi.org/10.1177/13607804211023524)
 - **Maineri AM**, Van Mol C. An Experimental Study on the Impact of Contact Design on Web Survey Participation. Social Science Computer Review. April 2021. [full-text here](https://doi:10.1177/08944393211003482)
@@ -12,6 +13,9 @@ permalink: /publications/
 - Luijkx, R., Jonsdottir, G., Gummer, T., Ernst Staehli, M., Frederiksen, M., Ketola, K., Reeskens, T., Brislinger, E., Christmann, P., Gunnarsson, S., Bragi Hjaltason, A., Joye, D., Lomazzi, V., **Maineri, A.**, Milbert, P., Ochsner, M., Pollien, A., Sapin, M., Solanes, I., ... Wolf, C. (2021). The European Values Study 2017: On the way to the future using mixed-modes. European Sociological Review. [full-text here](https://doi.org/10.1093/esr/jcaa049)
 - **Maineri, A.**, Bison, I., & Luijkx, R. (2021). Slider Bars in Multi-Device Web Surveys. Social Science Computer Review, 39(4), 573–591. [full-text here](https://doi.org/10.1177/0894439319879132)
 - Luijkx, R., & **Maineri, A.** (2019). Het Europese Waardenonderzoek 1981-2017: Geschiedenis, de internationale context en het Nederlandse veldonderzoek. Mens en Maatschappij, 94(4), 381-397. [full-text here](https://doi.org/10.5117/MEM2019.4.002.LUIJ)
+
+## PhD dissertation
+- **Maineri, A. M.** (2022). Do you want cookies? Trust dynamics and educational gaps in the datafied risk society. Open Press Tilburg University.[full-text here](https://doi.org/10.26116/et28-vc69)
 
 ## Book chapters
 - Brunori, C., **Maineri, A.**, Borghesan, G., & Luijkx, R. (2020). I cambiamenti strutturali: l'Italia dagli anni Ottanta a oggi. In F. Biolcati Rinaldi, G. Rovati, & P. Segatti (Eds.), Come cambiano gli italiani: il mutamento di valori e atteggiamenti dagli anni Ottanta a oggi (pp. 35-60). Il Mulino.
