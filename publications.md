@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 ## Journal articles
-- Marolla, F.,  Tagliabue, J., **Maineri, A.M.**,  Cassani, G. (forthcoming). Voting, fast and slow: Ballot order and likability effects in the Five Star Movement’s 2012 online primary election
+- Marolla, F., **Maineri, A.**, Tagliabue, J., & Cassani, G. (2023). Voting, fast and slow: Ballot order and likeability effects in the five-star movement’s 2012 online primary election. Contemporary Italian Politics, 0(0), 1–18. [full-text here](https://doi.org/10.1080/23248823.2023.2175124); [data & scripts here](https://doi.org/10.34894/KE8VVY)
+
 - **Maineri, A. M.**, Achterberg, P., & Luijkx, R. (2022). Switch on the Big Brother! Investigating the educational gradients in acceptance of online and public areas surveillance among European citizens. European Societies. [full-text here](https://doi.org/10.1080/14616696.2022.2043412); [supplementary materials & scripts here](https://doi.org/10.17605/OSF.IO/M82KW)
 - **Maineri, A.**, Achterberg, P., & Luijkx, R. (2021). The closing educational gap in e-privacy management in European perspective. Sociological Research Online. [full-text here](https://doi.org/10.1177/13607804211023524)
 - **Maineri AM**, Van Mol C. An Experimental Study on the Impact of Contact Design on Web Survey Participation. Social Science Computer Review. April 2021. [full-text here](https://doi:10.1177/08944393211003482)
