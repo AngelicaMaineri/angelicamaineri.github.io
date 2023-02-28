@@ -29,7 +29,7 @@ permalink: /publications/
 
 ## Blog posts
 - **Maineri, A. M.**, & Wang, S. (2022). FAIR yes, but how? FAIR Implementation Profiles in the Social Sciences. Zenodo. [link](https://doi.org/10.5281/zenodo.7428412)
-- **Maineri. A. M.**. (2022). Controlled vocabularies for the social sciences: what they are, and why we need them. Zenodo. [link](https://doi.org/10.5281/zenodo.7157800)
+- **Maineri. A. M.** (2022). Controlled vocabularies for the social sciences: what they are, and why we need them. Zenodo. [link](https://doi.org/10.5281/zenodo.7157800)
 - **Maineri, A.**, Reeskens. T. (2019, February 4th) In Zuck We Trust? [link](https://www.socialevraagstukken.nl/in-zuck-we-trust/)
 
 ## Awards and grants
