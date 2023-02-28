@@ -28,7 +28,9 @@ permalink: /publications/
 - Bristle, J., Emery, T., Luijkx, R., **Maineri, A. M.**, Pflüger, S-M., & Zins, S. (2016). Report on auxiliary data in available country registers. SERISS. [here](https://seriss.eu/wp-content/uploads/2016/12/SERISS-Deliverable-2.5-Report-on-auxiliary-data-in-country-registers.pdf)
 
 ## Blog posts
-- **Maineri, A.**, Reeskens. T, (2019, February 4th) In Zuck We Trust? [here](https://www.socialevraagstukken.nl/in-zuck-we-trust/)
+- **Maineri, A. M.**, & Wang, S. (2022). FAIR yes, but how? FAIR Implementation Profiles in the Social Sciences. Zenodo. [link](https://doi.org/10.5281/zenodo.7428412)
+- **Maineri. A. M.**. (2022). Controlled vocabularies for the social sciences: what they are, and why we need them. Zenodo. [link](https://doi.org/10.5281/zenodo.7157800)
+- **Maineri, A.**, Reeskens. T. (2019, February 4th) In Zuck We Trust? [link](https://www.socialevraagstukken.nl/in-zuck-we-trust/)
 
 ## Awards and grants
 - 2019/2020: GESIS research grant GG-2019-022; it funded a 4-weeks research stay at the GESIS institute in Mannheim (Germany) in February-March 2020
